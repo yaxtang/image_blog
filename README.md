@@ -1,1 +1,1 @@
-# image_blog
+# Image Repository for Blogs
